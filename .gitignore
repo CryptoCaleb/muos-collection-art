@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+CollectionArt/cache/
+CollectionArt/last_run.log
+*.tmp
+dist/
